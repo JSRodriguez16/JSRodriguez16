@@ -60,4 +60,4 @@ I'm interested in opportunities where I can continue learning and contribute to 
 
 [![GitHub](https://img.shields.io/badge/GitHub-JSRodriguez16-181717?style=for-the-badge&logo=github)](https://github.com/JSRodriguez16)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Sebastian_Rodriguez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Sebastian_Rodriguez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-sebastian-rodriguez-carre%C3%B1o-20595639b/)
